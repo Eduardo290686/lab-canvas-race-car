@@ -1,0 +1,35 @@
+html {
+  font-size: 10px;
+  font-family: "Geneva, Verdana, sans-serif";
+}
+
+body {
+  display: flex;
+  justify-content: space-around;
+  padding: 10vh 10vw;
+}
+
+.game-intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-img {
+  width: 18rem;
+}
+
+#start-button {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.arrows-img {
+  width: 15rem;
+}
